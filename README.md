@@ -27,7 +27,7 @@
 
 ### 📚 Matérias feitas na minha faculdade
 
-Aqui estão as disciplinas que já concluí, cada uma levando para um repositório com o que desenvolvi durante o curso:
+Aqui estão as disciplinas que já concluí, cada uma levando para um repositório com o que desenvolvi durante o curso (edição dos repositórios ainda em andamento):
 
 <div align="center">
 
