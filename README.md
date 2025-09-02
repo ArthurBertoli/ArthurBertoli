@@ -24,5 +24,22 @@
 </div>
 
 ---
-### 🎓 Projetos criados:
+### 📚 Matérias feitas na minha faculdade
+
+Aqui estão as disciplinas que já concluí, cada uma levando para um repositório com o que desenvolvi durante o curso:
+
+<div align="center">
+
+| 💻 Programação | 🔢 Matemática | ⚙️ Sistemas/Engenharia | 📊 Outros |
+|----------------|---------------|------------------------|-----------|
+| [![Algoritmos](https://img.shields.io/badge/-Algoritmos-2D9CDB?style=for-the-badge)](https://github.com/ArthurBertoli/Algoritmos) | [![Cálculo I](https://img.shields.io/badge/-Cálculo%20I-F2994A?style=for-the-badge)](https://github.com/ArthurBertoli/CalculoI) | [![Teoria dos Sistemas](https://img.shields.io/badge/-Teoria%20dos%20Sistemas-27AE60?style=for-the-badge)](https://github.com/ArthurBertoli/TeoriaSistemas) | [![Metodologia](https://img.shields.io/badge/-Metodologia%20de%20Pesquisa-9B51E0?style=for-the-badge)](https://github.com/ArthurBertoli/MetodologiaPesquisa) |
+| [![Linguagem de Programação](https://img.shields.io/badge/-Linguagem%20de%20Programação-2D9CDB?style=for-the-badge)](https://github.com/ArthurBertoli/LinguagemProgramacao) | [![Álgebra Linear](https://img.shields.io/badge/-Álgebra%20Linear-F2994A?style=for-the-badge)](https://github.com/ArthurBertoli/AlgebraLinear) | [![Banco de Dados I](https://img.shields.io/badge/-Banco%20de%20Dados%20I-27AE60?style=for-the-badge)](https://github.com/ArthurBertoli/BancoDeDadosI) | [![Ética](https://img.shields.io/badge/-Ética-9B51E0?style=for-the-badge)](https://github.com/ArthurBertoli/Etica) |
+| [![POO](https://img.shields.io/badge/-POO-2D9CDB?style=for-the-badge)](https://github.com/ArthurBertoli/POO) | [![Matemática Discreta](https://img.shields.io/badge/-Matemática%20Discreta-F2994A?style=for-the-badge)](https://github.com/ArthurBertoli/MatematicaDiscreta) | [![Banco de Dados II](https://img.shields.io/badge/-Banco%20de%20Dados%20II-27AE60?style=for-the-badge)](https://github.com/ArthurBertoli/BancoDeDadosII) | |
+| [![Estrutura de Dados I](https://img.shields.io/badge/-Estrutura%20de%20Dados%20I-2D9CDB?style=for-the-badge)](https://github.com/ArthurBertoli/EstruturaDadosI) | [![Probabilidade e Estatística](https://img.shields.io/badge/-Probabilidade%20e%20Estatística-F2994A?style=for-the-badge)](https://github.com/ArthurBertoli/ProbabilidadeEstatistica) | [![Engenharia de Software](https://img.shields.io/badge/-Engenharia%20de%20Software-27AE60?style=for-the-badge)](https://github.com/ArthurBertoli/EngenhariaSoftware) | |
+| [![Estrutura de Dados II](https://img.shields.io/badge/-Estrutura%20de%20Dados%20II-2D9CDB?style=for-the-badge)](https://github.com/ArthurBertoli/EstruturaDadosII) | [![Análise Numérica](https://img.shields.io/badge/-Análise%20Numérica-F2994A?style=for-the-badge)](https://github.com/ArthurBertoli/AnaliseNumerica) | [![Sistemas Digitais](https://img.shields.io/badge/-Sistemas%20Digitais-27AE60?style=for-the-badge)](https://github.com/ArthurBertoli/SistemasDigitais) | |
+
+</div>
+
+
+
 
