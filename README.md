@@ -42,8 +42,7 @@ Aqui estão as disciplinas que já concluí, cada uma levando para um repositór
 | [![Estrutura de Dados II](https://img.shields.io/badge/-Estrutura%20de%20Dados%20II-2D9CDB?style=for-the-badge)](https://github.com/ArthurBertoli/EstruturaDadosII) | [![Cálculo Diferencial e Integral II](https://img.shields.io/badge/-Cálculo%20II-F2994A?style=for-the-badge)](https://github.com/ArthurBertoli/CalculoII) | [![Sistemas Digitais](https://img.shields.io/badge/-Sistemas%20Digitais-27AE60?style=for-the-badge)](https://github.com/ArthurBertoli/SistemasDigitais) | |
 | [![Linguagens Formais e Autômatos](https://img.shields.io/badge/-Linguagens%20Formais%20e%20Autômatos-2D9CDB?style=for-the-badge)](https://github.com/ArthurBertoli/LinguagensFormais) | [![Matemática Discreta](https://img.shields.io/badge/-Matemática%20Discreta-F2994A?style=for-the-badge)](https://github.com/ArthurBertoli/MatematicaDiscreta) | [![Engenharia de Software](https://img.shields.io/badge/-Engenharia%20de%20Software-27AE60?style=for-the-badge)](https://github.com/ArthurBertoli/EngenhariaSoftware) | |
 | | [![Probabilidade e Estatística](https://img.shields.io/badge/-Probabilidade%20e%20Estatística-F2994A?style=for-the-badge)](https://github.com/ArthurBertoli/ProbabilidadeEstatistica) | | |
-| | [![Análise Numérica](https://img.shields.io/badge/-Análise%20Numérica-F2994A?style=for-the-badge)](https://github.com/ArthurBertoli/AnaliseNumerica) | | | | [![Análise e Modelagem de Sistemas](https://img.shields.io/badge/-AMS-2D9CDB?style=for-the-badge)](https://github.com/ArthurBertoli/AMS) |
-
+| | [![Análise Numérica](https://img.shields.io/badge/-Análise%20Numérica-F2994A?style=for-the-badge)](https://github.com/ArthurBertoli/AnaliseNumerica) | | | | 
 </div>
 
 
