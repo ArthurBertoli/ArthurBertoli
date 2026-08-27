@@ -1,7 +1,7 @@
 <h1 align="center">👋 Olá, Me chamo Arthur Bertoli</h1>
 
 ### 📖 Sobre:
-- 🔭 Atualmente sou estagiário pela MGA, Udesc, onde trabalho com pesquisa de IA e automação de IA em ambientes corporativos.
+- 🔭 Atualmente sou estagiário pela MGA, Udesc, onde trabalho com pesquisa de IA usando claude e automação de IA em ambientes corporativos.
 - 🌱 Cursando Ciência da Computação pela Udesc.
 - 🧠 Interesses: Procuro desenvolver mais minhas habilidades, principalmente com IA nessa etapa da minha carreira onde comecei a estagiar.
 - 📫 Email de contato: arthurbertolisilva@gmail.com.
@@ -21,6 +21,7 @@
   <img align="center" alt="Arthur-Css" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
   <img align="center" alt="Arthur-Postgree" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
   <img align="center" alt="Arthur-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+  <img align="center" alt="Arthur-Claude" height="30" width="40" src="https://devicons.io/devicons/icons/claude-code.svg">
 </div>
 
 ---
