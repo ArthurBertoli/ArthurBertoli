@@ -1,9 +1,9 @@
 <h1 align="center">👋 Olá, Me chamo Arthur Bertoli</h1>
 
 ### 📖 Sobre:
-- 🔭 Atualmente sou bolsista pela Webmaster, Udesc, onde desenvolvo algumas funções para o site da universidade.
+- 🔭 Atualmente sou estagiário pela MGA, Udesc, onde trabalho com pesquisa de IA e automação de IA em ambientes corporativos.
 - 🌱 Cursando Ciência da Computação pela Udesc.
-- 🧠 Interesses: Procuro estágia para desenvolver meu conhecimento na área.
+- 🧠 Interesses: Procuro desenvolver mais minhas habilidades, principalmente com IA nessa etapa da minha carreira onde comecei a estagiar.
 - 📫 Email de contato: arthurbertolisilva@gmail.com.
 - 👅 Nível de inglês: Formado pela Rockfeller.
 
