@@ -203,7 +203,7 @@ Aqui estão as disciplinas que já concluí. **Clique em uma matéria** para ver
 <li>Modelagem e plano de negócios</li>
 <li>Sustentabilidade e ações ambientais nas empresas</li>
 </ul>
-<i>🚧 Repositório em breve</i>
+<a href="https://github.com/ArthurBertoli/Empreendedorismo">📂 Ver repositório</a>
 </details>
 </td>
 </tr>
@@ -398,7 +398,7 @@ Aqui estão as disciplinas que já concluí. **Clique em uma matéria** para ver
 <li>Formulários e cadastros</li>
 <li>Projeto: sistema jurídico (advogados, processos e jurisprudência)</li>
 </ul>
-<i>🚧 Repositório em breve</i>
+<a href="https://github.com/ArthurBertoli/DesenvolvimentoWeb">📂 Ver repositório</a>
 </details>
 </td>
 <td valign="top">
@@ -424,7 +424,7 @@ Aqui estão as disciplinas que já concluí. **Clique em uma matéria** para ver
 <li>Pipeline e hazards</li>
 <li>Hierarquia de memória</li>
 </ul>
-<i>🚧 Repositório em breve</i>
+<a href="https://github.com/ArthurBertoli/ArquiteturaComputadores">📂 Ver repositório</a>
 </details>
 </td>
 <td></td>
@@ -442,7 +442,7 @@ Aqui estão as disciplinas que já concluí. **Clique em uma matéria** para ver
 <li>Intents e content providers</li>
 <li>Projeto: API financeira + app Android</li>
 </ul>
-<i>🚧 Repositório em breve</i>
+<a href="https://github.com/ArthurBertoli/OTES">📂 Ver repositório</a>
 </details>
 </td>
 <td valign="top">
@@ -468,7 +468,7 @@ Aqui estão as disciplinas que já concluí. **Clique em uma matéria** para ver
 <li>Avaliação de interfaces</li>
 <li>Seminário e análise de artigos científicos</li>
 </ul>
-<i>🚧 Repositório em breve</i>
+<a href="https://github.com/ArthurBertoli/InteracaoHumanoComputador">📂 Ver repositório</a>
 </details>
 </td>
 <td></td>
@@ -485,7 +485,7 @@ Aqui estão as disciplinas que já concluí. **Clique em uma matéria** para ver
 <li>Modelos OBJ/MTL e Blender</li>
 <li>Trabalho final de CG</li>
 </ul>
-<i>🚧 Repositório em breve</i>
+<a href="https://github.com/ArthurBertoli/ComputacaoGrafica">📂 Ver repositório</a>
 </details>
 </td>
 <td valign="top">
@@ -501,7 +501,7 @@ Aqui estão as disciplinas que já concluí. **Clique em uma matéria** para ver
 <li>Coloração e fluxo em redes</li>
 <li>Caixeiro viajante (branch and bound)</li>
 </ul>
-<i>🚧 Repositório em breve</i>
+<a href="https://github.com/ArthurBertoli/TeoriaGrafos">📂 Ver repositório</a>
 </details>
 </td>
 <td></td>
@@ -519,7 +519,7 @@ Aqui estão as disciplinas que já concluí. **Clique em uma matéria** para ver
 <li>Pixel art com Aseprite</li>
 <li>Jogo com rastreamento de pose em Python</li>
 </ul>
-<i>🚧 Repositório em breve</i>
+<a href="https://github.com/ArthurBertoli/TopicosComputacaoGrafica">📂 Ver repositório</a>
 </details>
 </td>
 <td valign="top">
@@ -531,7 +531,7 @@ Aqui estão as disciplinas que já concluí. **Clique em uma matéria** para ver
 <li>Listas e polimorfismo</li>
 <li>Verificação formal de propriedades de programas</li>
 </ul>
-<i>🚧 Repositório em breve</i>
+<a href="https://github.com/ArthurBertoli/MetodosFormais">📂 Ver repositório</a>
 </details>
 </td>
 <td></td>
@@ -549,7 +549,7 @@ Aqui estão as disciplinas que já concluí. **Clique em uma matéria** para ver
 <li>Histogramas e análise de regiões</li>
 <li>Visualização 3D com Matplotlib</li>
 </ul>
-<i>🚧 Repositório em breve</i>
+<a href="https://github.com/ArthurBertoli/ProcessamentoImagem">📂 Ver repositório</a>
 </details>
 </td>
 <td></td>
