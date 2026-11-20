@@ -48,3 +48,61 @@ Aqui estão as disciplinas que já concluí, cada uma levando para um repositór
 | [![Processamento de Imagem](https://img.shields.io/badge/-Processamento%20de%20Imagem-2D9CDB?style=for-the-badge)](https://github.com/ArthurBertoli/ProcessamentoImagem) | | | |
 
 </div>
+
+---
+
+### 🚀 Meus projetos
+
+Todos os projetos que desenvolvi na faculdade, do mais complexo para o mais simples. Cada um tem um README explicando o projeto:
+
+#### 🔴 Projetos grandes
+
+| # | Projeto | Matéria | Descrição | Tecnologias |
+|---|---|---|---|---|
+| 1 | [**App Financeiro**](https://github.com/ArthurBertoli/OTES/tree/main/App%20Financeiro) | OTES | Controle financeiro: API REST registra entradas e saídas; app Android mostra saldo, histórico com filtros e lembretes diários | Java, Spring Boot, SQLite, Android |
+| 2 | [**Controle de Gastos**](https://github.com/ArthurBertoli/POO/tree/main/Controle%20de%20Gastos) | POO | App desktop com login para cadastrar, filtrar, alterar e ver em gráficos os gastos por categoria e mês | Java, Swing, JFreeChart |
+| 3 | [**Amarelinha**](https://github.com/ArthurBertoli/Amarelinha) | Exergame | Amarelinha projetada no chão: a câmera rastreia os pés do jogador e pontua cada quadrado pisado | Python, Pygame, MediaPipe, OpenCV |
+| 4 | [**JusDigital — Sistema Jurídico**](https://github.com/ArthurBertoli/DesenvolvimentoWeb/tree/main/Sistema%20Juridico) | Desenvolvimento Web | Site de consulta jurídica com processos, detalhes de processo, jurisprudência e advogados | PHP, HTML, CSS |
+| 5 | [**Jogo de Batalha por Turnos**](https://github.com/ArthurBertoli/EstruturaDadosII/tree/main/Jogo%20de%20Batalha%20por%20Turnos) | Estrutura de Dados II | Estratégia por turnos no terminal: personagens em árvore AVL e ordem de jogada em fila encadeada | C, Make |
+
+#### 🟠 Projetos médios
+
+| # | Projeto | Matéria | Descrição | Tecnologias |
+|---|---|---|---|---|
+| 6 | [**Simulador de Autômato com Pilha**](https://github.com/ArthurBertoli/LinguagensFormais/tree/main/Simulador%20de%20Automato%20com%20Pilha) | Linguagens Formais e Autômatos | Monta um autômato com pilha, testa a aceitação de palavras com backtracking e exporta para Graphviz | C, Graphviz |
+| 7 | [**Esferas 3D controladas pelo rosto**](https://github.com/ArthurBertoli/ComputacaoGrafica/tree/main/TrabalhoFinal) | Computação Gráfica | O rosto captado pela webcam move uma esfera que empurra outras, com gravidade, atrito e colisões | Python, OpenGL, MediaPipe |
+| 8 | [**Provas em Coq**](https://github.com/ArthurBertoli/MetodosFormais) | Métodos Formais | Listas, provas e exames sobre indução, listas, polimorfismo, lógica e expressões regulares | Coq |
+| 9 | [**Gerenciador de Conjuntos**](https://github.com/ArthurBertoli/LinguagemProgramacao/tree/main/Gerenciador%20de%20Conjuntos) | Linguagem de Programação | Menu que gerencia conjuntos de inteiros com inserção, remoção, união, interseção e busca | C |
+| 10 | [**Cadastro de Músicas com Arquivo**](https://github.com/ArthurBertoli/LinguagemProgramacao/tree/main/Cadastro%20com%20Arquivo) | Linguagem de Programação | Cadastro com vetor dinâmico de structs salvo em arquivo, com consultas e ordenação | C |
+| 11 | [**PulaGeração**](https://github.com/ArthurBertoli/TopicosComputacaoGrafica/tree/main/PulaGeracao) | Tópicos Especiais em CG | Protótipos de exergame de amarelinha para crianças e idosos, com detecção de pose pela câmera | Python, Pygame, MediaPipe |
+| 12 | [**Trabalho Bandas**](https://github.com/ArthurBertoli/BancoDeDadosII/tree/main/Trabalho%20Bandas) | Banco de Dados II | Banco de bandas musicais com esquema relacional e gatilhos, depois migrado para MongoDB | PostgreSQL, PL/pgSQL, MongoDB |
+| 13 | [**Funções e Gatilhos SQL**](https://github.com/ArthurBertoli/BancoDeDadosII/tree/main/Exercicios%20SQL) | Banco de Dados II | Exercícios de funções e triggers sobre o banco de uma oficina mecânica | PostgreSQL, PL/pgSQL |
+| 14 | [**Bando de Pássaros (Boids)**](https://github.com/ArthurBertoli/ComputacaoGrafica/tree/main/tc3CGR) | Computação Gráfica | Bando de 40 pássaros com separação, alinhamento e coesão, fugindo do mouse | Python, OpenGL |
+| 15 | [**Quicksort em Assembly**](https://github.com/ArthurBertoli/ArquiteturaComputadores/tree/main/Quicksort%20MIPS) | Arquitetura de Computadores | Quicksort recursivo que ordena um vetor em ordem decrescente | Assembly MIPS |
+| 16 | [**Análise de Grafos**](https://github.com/ArthurBertoli/TeoriaGrafos/tree/main/TarefaTeg) | Teoria dos Grafos | Lê um grafo para lista de adjacências e calcula graus, multigrafo e componentes conexos (DFS) | C |
+| 17 | [**Rotulação 3D de Tomografia**](https://github.com/ArthurBertoli/ProcessamentoImagem/tree/main/TrabPim) | Processamento de Imagem | Rotula por BFS 3D células de um volume de tomografia e gera histogramas | Python, NumPy, Matplotlib |
+| 18 | [**Modelagem ONG**](https://github.com/ArthurBertoli/BancoDeDadosI/tree/main/Modelagem%20ONG) | Banco de Dados I | Modelagem de dados de uma ONG de animais: sumário, DER e dicionário de dados | brModelo |
+
+#### 🟢 Projetos menores e exercícios
+
+| # | Projeto | Matéria | Descrição | Tecnologias |
+|---|---|---|---|---|
+| 19 | [**Exercícios de Estrutura de Dados II**](https://github.com/ArthurBertoli/EstruturaDadosII/tree/main/Exercicios%20em%20C) | Estrutura de Dados II | Agendas em arquivo binário, índice invertido e comparação de métodos de pesquisa | C |
+| 20 | [**Calculadora Estatística**](https://github.com/ArthurBertoli/POO/tree/main/aula%20pratica%2012) | POO | Calcula somatório, médias, variância, desvio padrão e amplitude de uma lista de inteiros | Java, Swing |
+| 21 | [**Herança e Classes Abstratas**](https://github.com/ArthurBertoli/POO/tree/main/Lista%203) | POO | Exercícios com animais, formas geométricas, grafos e pessoas | Java, Python |
+| 22 | [**Fumaça com Partículas**](https://github.com/ArthurBertoli/ComputacaoGrafica/tree/main/TC02) | Computação Gráfica | 500 partículas simulando fumaça que sobe e se dissipa | Python, OpenGL |
+| 23 | [**Modelagem 3D com Primitivas**](https://github.com/ArthurBertoli/ComputacaoGrafica/tree/main/TC01CGR) | Computação Gráfica | Boneco de neve, castelo e robô montados com primitivas 3D | Python, PyVista |
+| 24 | [**Carregador de OBJ com Textura**](https://github.com/ArthurBertoli/ComputacaoGrafica/tree/main/tc4tc5) | Computação Gráfica | Leitor de OBJ que exibe um modelo do Blender com textura, girando | Python, OpenGL, Blender |
+| 25 | [**Rede Social em Matriz**](https://github.com/ArthurBertoli/Algoritmos/tree/main/Matriz%20_%20Redes%20sociais) | Algoritmos | Matriz de adjacência de usuários: amigos por usuário e amigos em comum | C |
+| 26 | [**PetShop**](https://github.com/ArthurBertoli/Algoritmos/tree/main/PetShop) | Algoritmos | Atendimento de pet shop: vacina, castração, ração com desconto e medicamentos | C |
+| 27 | [**Código Morse**](https://github.com/ArthurBertoli/Algoritmos/tree/main/C%C3%B3digo%20Morse) | Algoritmos | Traduz frases para código Morse | C |
+| 28 | [**Rota de Viagem no MT**](https://github.com/ArthurBertoli/Algoritmos/tree/main/Rota%20dada%20pelo%20usu%C3%A1rio%20para%20viagem%20no%20MT) | Algoritmos | Calcula a distância de uma rota entre cidades do MT | C |
+| 29 | [**Questão do Primo**](https://github.com/ArthurBertoli/Algoritmos/tree/main/Quest%C3%A3o%20do%20Primo) | Algoritmos | Encontra o maior primo menor que um número dado | C |
+| 30 | [**Matriz Ampulheta**](https://github.com/ArthurBertoli/Algoritmos/tree/main/Matriz%20ampulheta) | Algoritmos | Média da região em ampulheta entre as diagonais de uma matriz | C |
+| 31 | [**Matriz Gravata**](https://github.com/ArthurBertoli/Algoritmos/tree/main/Matriz%20gravata) | Algoritmos | Exibe a região em gravata de uma matriz aleatória e seu maior elemento | C |
+| 32 | [**Nome no Padrão ABNT**](https://github.com/ArthurBertoli/Algoritmos/tree/main/ABNT%20%20%28%20string%20%29) | Algoritmos | Converte um nome completo para o formato de autor da ABNT | C |
+| 33 | [**Exercícios em VisuAlg**](https://github.com/ArthurBertoli/Algoritmos/tree/main/VisuAlg) | Algoritmos | Conta de energia, divisibilidade, conversor de moedas e decisão por clima | VisuAlg |
+| 34 | [**Método de Newton**](https://github.com/ArthurBertoli/AnaliseNumerica/tree/main/Metodo%20de%20Newton) | Análise Numérica | Resolve um sistema de três equações não lineares com jacobiana analítica | Python, NumPy |
+| 35 | [**Funções Recursivas em Haskell**](https://github.com/ArthurBertoli/ProgramacaoFuncional/tree/main/trabalho) | Programação Funcional | Triângulos, soma de pares, potências de 2, primos e aproximação de π | Haskell |
+| 36 | [**Listas de Exercícios em C**](https://github.com/ArthurBertoli/LinguagemProgramacao/tree/main/Listas%20de%20Exercicios) | Linguagem de Programação | Decisão, repetição, funções, vetores, strings e ponteiros | C |
+| 37 | [**Sobre Ponteiros**](https://github.com/ArthurBertoli/EstruturaDadosI/tree/main/Ponteiros) | Estrutura de Dados I | Mostra que uma função não altera a variável original quando recebe uma cópia | C |
